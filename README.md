@@ -236,7 +236,5 @@ For the fifth image the model is very sure that this is a No entry sign (probabi
 | .002         			| Roundabout mandatory   						|
 
 
-### (Optional) Visualizing the Neural Network (See Step 4 of the Ipython notebook for more details)
-#### 1. Discuss the visual output of your trained network's feature maps. What characteristics did the neural network use to make classifications?
 
 
